@@ -1,0 +1,6 @@
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\bin\Debug\JamesChristensenTest.exe.config
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\bin\Debug\JamesChristensenTest.exe
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\bin\Debug\JamesChristensenTest.pdb
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\obj\x86\Debug\JamesChristensenTest.csprojResolveAssemblyReference.cache
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\obj\x86\Debug\JamesChristensenTest.exe
+C:\Users\Xycrion\Desktop\GavantTest\JamesChristensenTest\obj\x86\Debug\JamesChristensenTest.pdb
